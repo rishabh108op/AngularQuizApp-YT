@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "AngularQuizApp"
+  "defaultProject": "AngularQuizApp",
+  "cli": {
+    "analytics": "80ce8c03-a4f5-4376-b84a-0c88e86aca91"
+  }
 }
