@@ -160,6 +160,24 @@
                 }
             ],
             "explanation": "this.propertyName is the way to access a specific property within a class"
+        },
+        {
+            "questionText": "Which of the following is NOT a type used in TypeScript?",
+            "options": [{
+                    "text": "number"
+                },
+                {
+                    "text": "string"
+                },
+                {
+                    "text": "boolean"
+                },
+                {
+                    "text": "enum",
+                    "correct": true
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
         }
     ]
 }
